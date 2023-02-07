@@ -3,12 +3,12 @@ Nesta sección pode acceder ás diferentes demonstracións do proxecto Nós.
 
 In this section you can access the different demos of the Nós project. 
 
-## Recoñecemento de voz
+## Recoñecemento de voz (Conversión de voz a texto)
++ Demo dun prototipo de sistema de conversión de texto a voz
 
+## Síntese de voz (Conversión de texto a voz)
 
-## Conversión texto en fala
-
-+ **Demo de conversor de texto a fala usando voces xa existentes, resultado dunha colaboración con Collectiva-T.** 
++ **Demo dun prototipo de sistema de conversión de texto a voz usando voces xa existentes, resultado dunha colaboración con Collectiva-T.** 
 Podes ver a Demo en: https://ilg.usc.gal/nostts
 
 ## Tradución automática 
