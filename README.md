@@ -4,7 +4,7 @@ Nesta sección pode acceder ás diferentes demonstracións do proxecto Nós.
 In this section you can access the different demos of the Nós project. 
 
 ## Recoñecemento de voz (Conversión de voz a texto)
-+ Demo dun prototipo de sistema de conversión de texto a voz
++ **Demo dun prototipo de sistema de conversión de voz a texto**
 
 ## Síntese de voz (Conversión de texto a voz)
 
