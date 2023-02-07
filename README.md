@@ -8,8 +8,7 @@ In this section you can access the different demos of the Nós project.
 
 ## Síntese de voz (Conversión de texto a voz)
 
-+ **Demo dun prototipo de sistema de conversión de texto a voz usando voces xa existentes, resultado dunha colaboración con Collectiva-T.** 
-Podes ver a Demo en: https://ilg.usc.gal/nostts
++ Demo dun prototipo de sistema de conversión de texto a voz usando voces xa existentes, resultado dunha colaboración con Collectiva-T: https://ilg.usc.gal/nostts
 
 ## Tradución automática 
 
