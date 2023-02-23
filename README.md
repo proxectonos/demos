@@ -5,11 +5,11 @@ In this section you can access the different demos of the Nós project.
 
 ## Recoñecemento da fala (ASR)
 
-+ **Demo dun prototipo de recoñecemento da fala en galego.** Podes ver a demo en: https://nos-asr.imaxin.com/AsrNOS/ (https://ilg.usc.gal/nosasr)
++ **Demo dun prototipo de recoñecemento da fala en galego.** Podes ver a demo en: https://nos-asr.imaxin.com/AsrNOS/
 
 ## Síntese de voz (TTS)
 
-+ **Demo dun prototipo de síntese de voz en galego.** Podes ver a demo en: http://nos-tts.imaxin.com/TtsNOS/ (https://ilg.usc.gal/nostts)
++ **Demo dun prototipo de síntese de voz en galego.** Podes ver a demo en: http://nos-tts.imaxin.com/TtsNOS/
 
 ## Tradución automática 
 
