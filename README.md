@@ -1,8 +1,6 @@
 # Demos
 Nesta sección pode acceder ás diferentes demostracións do proxecto Nós. 
 
-In this section you can access the different demos of the Nós project. 
-
 ## Recoñecemento da fala (ASR)
 
 + **Demo dun prototipo de recoñecemento da fala en galego.** Podes ver a demo en: https://nos-asr.imaxin.com/AsrNOS/
