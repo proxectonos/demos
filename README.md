@@ -11,4 +11,4 @@ Nesta sección pode acceder ás diferentes demostracións do proxecto Nós.
 
 ## Tradución automática 
 
-+ **Demo dun prototipo de tradución automática neuronal inglés-galego e español-galego.** Neste tradutor podes escoller entre dous pares de linguas: inglés para galego e español para galego. Podes ver a demo en: http://nos-tradutor.imaxin.com/TradutorNOS/traducir/index
++ **Demo dun prototipo de tradución automática neuronal inglés-galego e español-galego.** Neste tradutor podes escoller entre dous pares de linguas a traducir: inglés para galego e español para galego. Podes ver a demo en: http://nos-tradutor.imaxin.com/TradutorNOS/traducir/index
