@@ -1,4 +1,4 @@
-**English text [here](https://github.com/proxectonos/demos/blob/main/README_English.md)
+English text [here](https://github.com/proxectonos/demos/blob/main/README_English.md)
 # Demos
 Nesta sección pode acceder ás diferentes demostracións do proxecto Nós. 
 
